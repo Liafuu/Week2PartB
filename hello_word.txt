@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 HELLO HELLO NAjib
+=======
+"This is hello from Xin Cheng. I am adding a new line of code here."
+"Hello again. I am here to add in a second line. I am Xin Cheng."
+>>>>>>> 2c5c5771ec79a1744d86857d0029e177ec25b520
